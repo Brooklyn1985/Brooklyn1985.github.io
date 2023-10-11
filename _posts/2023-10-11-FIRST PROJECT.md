@@ -2,7 +2,7 @@
 layout: post
 title: "First Project"
 subtitle: "because i can"
-background: '/img/posts/01.jpg'
+background: '/img/posts/project1images/nik-shuliahin-kegWoCHJzGY-unsplash.jpg'
 ---
 
 # Project Name
