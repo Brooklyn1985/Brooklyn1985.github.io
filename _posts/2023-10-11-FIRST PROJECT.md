@@ -7,7 +7,7 @@ background: '/img/posts/01.jpg'
 
 # Project Name
 
-**Project Description**: Briefly describe what the project is about.
+**Project Description**: It's about a new simple project i've did
 
 ## Table of Contents
 
