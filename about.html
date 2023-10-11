@@ -5,6 +5,39 @@ description: This is what I do.
 background: '/img/bg-about.jpg'
 ---
 
+<style>
+    .btn btn-primary {
+      display: inline-block;
+      background-color: white;
+      border: 2px solid black;
+      color: black;
+      padding: 10px 20px;
+      border-radius: 50px; /* Adjust the value for roundness */
+      text-align: center;
+      text-decoration: none;
+      font-weight: bold;
+      margin: 20px 0;
+      position: relative;
+    }
+  
+    .btn btn-primary:after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      width: 0;
+      height: 2px;
+      background-color: black;
+      transition: width 0.3s;
+    }
+  
+    .btn btn-primary:hover:after {
+      width: 100%;
+      left: 0;
+      transition: width 0.3s;
+    }
+  </style>
+
 <p>As a first year engineering student, I am excited to begin my journey in the world of data science and data analytics.  </p>
 
 <p>With a strong passion for problem-solving and an interest in utilizing data to drive decision-making, I am eager to learn and grow in this field. I am highly motivated and constantly seeking out opportunities to gain hands-on experience and further my understanding of data-driven technologies.</p>
