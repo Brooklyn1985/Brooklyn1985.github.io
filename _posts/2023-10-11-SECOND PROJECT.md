@@ -2,7 +2,7 @@
 layout: post
 title: "Second Project"
 subtitle: "It's evolving"
-background: '/img\posts\project2iamages\Dreamville.jpg'
+background: '/img/posts/project2iamages/Dreamville.jpg'
 ---
 
 # Project Name 2
